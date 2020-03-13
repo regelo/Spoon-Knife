@@ -1,1 +1,3 @@
-allo
+// allo
+
+class Boite {};
